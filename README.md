@@ -17,7 +17,7 @@
 
 ### 📊 GitHub Stats
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=YutsuriHisekawa&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 32%;">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=YutsuriHisekawa&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 32%;"> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=YutsuriHisekawa&theme=shadow_red&hide_border=true" alt="GitHub Streak" style="max-width: 32%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutsuriHisekawa&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="max-width: 32%;">
 </div>
