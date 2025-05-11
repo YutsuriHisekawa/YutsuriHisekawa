@@ -1,8 +1,8 @@
 <h1 align="left">Hello 👋..  I'm Fahrizal Julian Adam</h1>
 
 ### About Me
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div style="flex: 1;">
+<div style="display: flex; align-items: center; gap: 15px;">
+  <div style="flex: ;">
     <p>👨‍💻 Frontend Developer | Vue.js & Nuxt.js Enthusiast<br>
     ✨ Passionate about building modern, responsive, and performant web interfaces<br>
     🔭 Currently exploring advanced Vue ecosystem and full-stack integration<br>
