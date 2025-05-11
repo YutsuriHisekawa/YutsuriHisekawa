@@ -1,15 +1,15 @@
 <h1 align="left">Hello 👋..  I'm Fahrizal Julian Adam</h1>
 
 ### About Me
-<div style="display: flex; align-items: center; gap: 15px;">
-  <div style="flex: ;">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 1;">
     <p>👨‍💻 Frontend Developer | Vue.js & Nuxt.js Enthusiast<br>
     ✨ Passionate about building modern, responsive, and performant web interfaces<br>
     🔭 Currently exploring advanced Vue ecosystem and full-stack integration<br>
     🌱 Continuously learning best practices in frontend architecture and UI/UX</p>
   </div>
   <div>
-    <img height="150" src="https://c.tenor.com/4dS44jLgx8wAAAAC/tenor.gif" alt="Developer GIF" />
+    <img height="200" src="https://c.tenor.com/4dS44jLgx8wAAAAC/tenor.gif" alt="Developer GIF" />
   </div>
 </div>
 
