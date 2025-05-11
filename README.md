@@ -9,7 +9,7 @@
     🌱 Continuously learning best practices in frontend architecture and UI/UX</p>
   </div>
   <div>
-    <img height="200" src="https://c.tenor.com/4dS44jLgx8wAAAAC/tenor.gif" alt="Developer GIF" />
+    <img height="150" src="https://c.tenor.com/4dS44jLgx8wAAAAC/tenor.gif" alt="Developer GIF" />
   </div>
 </div>
 
