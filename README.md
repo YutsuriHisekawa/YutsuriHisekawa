@@ -62,11 +62,4 @@
 
 ---
 
-<div align="center">
-  
-  ## 🎮 Contribution Graph
-  
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/YutsuriHisekawa/YutsuriHisekawa/output/pacman-contribution-graph.svg" width="700" />
 
-  <sub>Dark mode? <a href="https://raw.githubusercontent.com/YutsuriHisekawa/YutsuriHisekawa/output/pacman-contribution-graph-dark.svg">Click here</a></sub>
-</div>
