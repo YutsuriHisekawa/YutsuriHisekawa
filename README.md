@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://c.tenor.com/4dS44jLgx8wAAAAC/tenor.gif" width="180" alt="Developer GIF" />
+  <img src="https://c.tenor.com/4dS44jLgx8wAAAAC/tenor.gif](https://i.pinimg.com/originals/13/c3/d6/13c3d6d30072b6817d2a9af47aabdc8c.gif" width="180" alt="Developer GIF" />
   
   # Fahrizal Julian Adam
   
