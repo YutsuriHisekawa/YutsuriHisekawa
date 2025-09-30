@@ -5,18 +5,7 @@
 <img width="100%"  src="https://i.pinimg.com/originals/13/c3/d6/13c3d6d30072b6817d2a9af47aabdc8c.gif"/>
 
 <h1 align="center">
-  <img src="ht<!-- Footer -->
-<div align="center">
-
----
-
-### 🌟 "Reality.exe has stopped working. Initiating quantum patch..."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,20,25,30,35&height=100&section=footer"/>
-
-**⚡ End of quantum transmission ⚡**
-
-</div>-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&height=70&lines=Silver+Wolf;%F0%9F%8C%9F+Stellaron+Hunter+%F0%9F%8C%9F;%E2%9A%A1+Quantum+Hacker+%E2%9A%A1" alt="Silver Wolf Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&height=70&lines=Silver+Wolf;%F0%9F%8C%9F+Stellaron+Hunter+%F0%9F%8C%9F;%E2%9A%A1+Quantum+Hacker+%E2%9A%A1" alt="Silver Wolf Title" />
 </h1>
 
 <!-- Hacker Typing Animation -->
