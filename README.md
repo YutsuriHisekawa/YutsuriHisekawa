@@ -44,8 +44,7 @@
 � **Philosophy:** "Reality is just another game to be hacked"<br>
 🎭 **Weakness:** Gacha addiction and premium currency
         
-      </div>
-    </td>
+
   </tr>
 </table>
 
