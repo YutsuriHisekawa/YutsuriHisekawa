@@ -36,8 +36,6 @@
 🎨 **Passion:** Creating beautiful, performant interfaces<br>
 🚀 **Goal:** Full-stack mastery with modern technologies
         
-      </div>
-    </td>
   </tr>
 </table>
 
