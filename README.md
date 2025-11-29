@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=YutsuriHisekawa&show_icons=true&locale=en&bg_color=1a0000&text_color=FF6B6B&icon_color=FF4444&border_color=DC143C&hide_border=false&count_private=true&include_all_commits=true&title_color=FFFFFF" alt="GitHub Stats" />
+      <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YutsuriHisekawa&show_icons=true&locale=en&bg_color=1a0000&text_color=FF6B6B&icon_color=FF4444&border_color=DC143C&hide_border=false&count_private=true&include_all_commits=true&title_color=FFFFFF" alt="GitHub Stats" />
     </td>
     <td>
       <div align="left">
@@ -71,7 +71,7 @@
   
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutsuriHisekawa&layout=compact&bg_color=1a0000&title_color=FF6B6B&text_color=FFFFFF&border_color=DC143C&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YutsuriHisekawa&layout=compact&bg_color=1a0000&title_color=FF6B6B&text_color=FFFFFF&border_color=DC143C&hide_border=false" alt="Top Languages" />
   
 </details>
 
