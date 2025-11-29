@@ -1,212 +1,218 @@
 
 <div align="center">
 
-<!-- Silver Wolf Header -->
-<img width="100%"  src="https://i.pinimg.com/originals/13/c3/d6/13c3d6d30072b6817d2a9af47aabdc8c.gif"/>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ CHISA HEADER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&height=70&lines=Silver+Wolf;%F0%9F%8C%9F+Stellaron+Hunter+%F0%9F%8C%9F;%E2%9A%A1+Quantum+Hacker+%E2%9A%A1" alt="Silver Wolf Title" />
+<img width="100%" src="https://media1.tenor.com/m/XmriPSWwCKUAAAAC/chisa-wuthering-waves.gif"/>
+
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF4444&center=true&vCenter=true&width=500&height=70&lines=Yutsuri+Hisekawa;%F0%9F%94%A5+Resonator+%F0%9F%94%A5;%E2%9A%94%EF%B8%8F+Wuthering+Waves+%E2%9A%94%EF%B8%8F" alt="Chisa Title" />
 </h1>
 
-<!-- Hacker Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=C77DFF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%3E+Infiltrating+digital+realms...;%3E+Exploiting+system+vulnerabilities;%3E+Gaming+across+multiple+dimensions;%3E+Debugging+reality.exe;%3E+Access+granted.+Welcome%2C+user." alt="Hacker Animation" />
-</div>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%3E+Awakening+resonance+power...;%3E+Exploring+the+Solaris+world;%3E+Fighting+alongside+Rovers;%3E+Echoes+synchronized;%3E+Welcome+to+Jinzhou%2C+Rover." alt="Resonator Animation" />
 
-<!-- Profile Views Counter with Purple Theme -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YutsuriHisekawa&style=for-the-badge&color=blueviolet" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Status-Online-success?style=for-the-badge&logo=wifi&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Quantum-Hacker-9D4EDD?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Quantum Hacker" />
+<!-- Profile Views & Status Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YutsuriHisekawa&style=for-the-badge&color=DC143C" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-Online-FF4444?style=for-the-badge&logo=wifi&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Resonator-Active-DC143C?style=for-the-badge&logo=gamepad&logoColor=white" alt="Resonator" />
 </p>
 
 </div>
 
-<!-- Silver Wolf Profile Section -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ ROVER PROFILE ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  
-## 🎮 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40"> Stellaron Hunter Profile
+
+<img width="100%" src="https://media1.tenor.com/m/jHte6U_giAUAAAAC/chisa-wuwa.gif"/>
+
+## 🔥 Rover Profile
 
 <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=YutsuriHisekawa&show_icons=true&locale=en&bg_color=240046&text_color=E0AAFF&icon_color=C77DFF&border_color=9D4EDD&hide_border=false&count_private=true&include_all_commits=true&title_color=FFFFFF" alt="Silver Wolf's GitHub Stats" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=YutsuriHisekawa&show_icons=true&locale=en&bg_color=1a0000&text_color=FF6B6B&icon_color=FF4444&border_color=DC143C&hide_border=false&count_private=true&include_all_commits=true&title_color=FFFFFF" alt="GitHub Stats" />
     </td>
     <td>
       <div align="left">
-        
-� **Codename:** Silver Wolf<br>
-🎯 **Faction:** Stellaron Hunters<br>
-⚡ **Element:** Quantum<br>
-🎮 **Specialty:** System Infiltration & Game Hacking<br>
-💻 **Arsenal:** Vue.js, Node.js, Quantum Computing<br>
-� **Mission:** Breaking through dimensional barriers via code<br>
-� **Philosophy:** "Reality is just another game to be hacked"<br>
-🎭 **Weakness:** Gacha addiction and premium currency
-        
-
+        🎭 <b>Codename:</b> Yutsuri Hisekawa<br>
+        ⚔️ <b>Faction:</b> Resonators<br>
+        🔥 <b>Element:</b> Fusion<br>
+        🎮 <b>Game:</b> Wuthering Waves<br>
+        💻 <b>Arsenal:</b> Vue.js, Node.js, Laravel<br>
+        🚀 <b>Mission:</b> Building digital echoes through code<br>
+        💭 <b>Philosophy:</b> "Every resonance tells a story"<br>
+        🎯 <b>Weakness:</b> Gacha pulls and limited banners
+      </div>
+    </td>
   </tr>
 </table>
 
 </div>
 
-<!-- Silver Wolf's Hacking Dashboard -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░ ANALYTICS DASHBOARD ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  
-## � Quantum Analytics Dashboard
+
+## 📊 Resonance Analytics
 
 <details>
-  <summary><b>⚡ System Performance & Code Mastery</b></summary>
+  <summary><b>🔥 Performance & Code Mastery</b></summary>
   <br>
   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YutsuriHisekawa&theme=radical&background=240046&border=9D4EDD&stroke=C77DFF&ring=E0AAFF&fire=FF6B6B&currStreakLabel=C77DFF" alt="Silver Wolf's Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=YutsuriHisekawa&background=1a0000&border=DC143C&stroke=FF4444&ring=FF6B6B&fire=FF4444&currStreakLabel=FF6B6B&sideLabels=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FF6B6B" alt="GitHub Streak" />
   
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutsuriHisekawa&layout=compact&theme=radical&bg_color=240046&title_color=E0AAFF&text_color=FFFFFF&border_color=9D4EDD&hide_border=false" alt="Programming Arsenal" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutsuriHisekawa&layout=compact&bg_color=1a0000&title_color=FF6B6B&text_color=FFFFFF&border_color=DC143C&hide_border=false" alt="Top Languages" />
   
 </details>
 
 <details>
-  <summary><b>🌌 Dimensional Contribution Matrix</b></summary>
+  <summary><b>🌊 Contribution Matrix</b></summary>
   <br>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YutsuriHisekawa&theme=react-dark&bg_color=240046&color=C77DFF&line=E0AAFF&point=FFFFFF&area=true&hide_border=false&custom_title=Silver%20Wolf's%20Quantum%20Activity" alt="Quantum Contributions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YutsuriHisekawa&bg_color=1a0000&color=FF6B6B&line=FF4444&point=FFFFFF&area=true&hide_border=false&custom_title=Resonance%20Activity" alt="Activity Graph" />
   
 </details>
 
 </div>
 
-<!-- Silver Wolf's Hacking Arsenal -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░ TECH ARSENAL ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-## ⚔️ Digital Arsenal & Quantum Tools
+## ⚔️ Tech Arsenal
 
-<!-- Quantum Frontend Manipulation -->
-### 🌐 Reality Interface Hacking
+### 🌐 Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,html,css,sass,tailwind,bootstrap,jquery&theme=dark" />
 </p>
 
-### 🔮 Quantum Backend Infiltration
+### 🔮 Backend Development
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,postgres,mongodb&theme=dark" />
 </p>
 
-<!-- Advanced Hacking Frameworks -->
 <p>
-  <img src="https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS" />
-  <img src="https://img.shields.io/badge/ElysiaJS-8B5CF6?style=for-the-badge&logo=elysia&logoColor=white" alt="ElysiaJS" />
-  <img src="https://img.shields.io/badge/Quantum_OS-9D4EDD?style=for-the-badge&logo=linux&logoColor=white" alt="Quantum OS" />
+  <img src="https://img.shields.io/badge/AdonisJS-DC143C?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS" />
+  <img src="https://img.shields.io/badge/ElysiaJS-FF4444?style=for-the-badge&logo=elysia&logoColor=white" alt="ElysiaJS" />
+  <img src="https://img.shields.io/badge/Bun_Runtime-FF6B6B?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
 </p>
 
-### 📱 Dimensional Portal Development
+### 📱 Mobile & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,figma,photoshop&theme=dark" />
 </p>
 
-### 🚀 Multiverse Deployment Systems
+### 🚀 DevOps & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=vite,webpack,docker,vercel,netlify,gcp&theme=dark" />
 </p>
 
-<!-- Stellar Cloud Network -->
 <p>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Stellar Cloud Network" />
-  <img src="https://img.shields.io/badge/Ether_Protocol-C77DFF?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ether Protocol" />
+  <img src="https://img.shields.io/badge/Google_Cloud-DC143C?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/AWS-FF4444?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
 </div>
 
-<!-- Stellaron Hunter Network -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░ SOCIAL NETWORK ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-## � Quantum Communication Network
+## 🌐 Connect With Me
 
-<div>
-  <a href="https://www.instagram.com/tetsuya.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Quantum_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Quantum Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/fahrizal-julian-adam-291a6a296/" target="_blank">
-    <img src="https://img.shields.io/badge/Network_Protocol-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Network Protocol" />
-  </a>
-  <a href="https://www.facebook.com/YutsuriHisekawa/" target="_blank">
-    <img src="https://img.shields.io/badge/Data_Stream-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Data Stream" />
-  </a>
-</div>
+<a href="https://www.instagram.com/tetsuya.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-DC143C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.linkedin.com/in/fahrizal-julian-adam-291a6a296/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-FF4444?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.facebook.com/YutsuriHisekawa/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-FF6B6B?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
 
-<br>
+<br><br>
 
-<!-- Hacker Contact Protocols -->
-<div>
-  <img src="https://img.shields.io/badge/Encrypted_Mail-9D4EDD?style=for-the-badge&logo=protonmail&logoColor=white" alt="Encrypted Email" />
-  <img src="https://img.shields.io/badge/Quantum_Portfolio-C77DFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Quantum Portfolio" />
-  <img src="https://img.shields.io/badge/Stellar_Network-E0AAFF?style=for-the-badge&logo=ethereum&logoColor=black" alt="Stellar Network" />
-</div>
+<img src="https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/Portfolio-FF4444?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Discord-FF6B6B?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 
 </div>
 
-<!-- Silver Wolf's Current Operations -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░ CURRENT PROJECTS ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img width="100%"  src="https://img.wattpad.com/854ecf83b7cbe2502b825f006fe899583e0acd13/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6f5052644a4b3445454b697a69773d3d2d313336333535353939342e31373735373830643631373962336330373837363336313531352e676966"/>
+<img width="100%" src="https://media1.tenor.com/m/9MMxysEPdwkAAAAC/chisa-wutheringwaves.gif"/>
 
-## � Current Hacking Operations
+## 🎯 Current Projects
 
 <table>
   <tr>
     <td width="50%">
       
-### ⚡ Active Infiltrations
-- � **Quantum Vue.js Portal** - Multidimensional interface
-- � **Stellaron E-commerce Network** - Interdimensional marketplace
-- 📱 **Ether Mobile Gateway** - Cross-reality communication
-- � **Quantum Component Arsenal** - Reusable hacking modules
-- 🎮 **Gacha Simulator 3000** - Premium currency generator
+### 🔥 Active Development
+- 🌐 **Vue.js Web Portal** - Modern web interface
+- 🛒 **E-commerce Platform** - Online marketplace
+- 📱 **Mobile App** - Cross-platform application
+- 🧩 **Component Library** - Reusable UI modules
+- 🎮 **Game Projects** - Interactive experiences
 
-    </td>
-    <td width="50%">
+</td>
+<td width="50%">
 
-### � Skill Enhancement Protocol
-- 🧠 **Neural Vue 3 Integration**
-- ⚡ **Quantum Performance Optimization**
-- 🔐 **Advanced Encryption & Security Bypass**
-- 🌊 **Progressive Reality Manipulation (PRM)**
-- 🎯 **Stellaron Hunter Combat Training**
+### 📚 Learning Goals
+- 🧠 **Vue 3 Composition API**
+- ⚡ **Performance Optimization**
+- 🔐 **Security Best Practices**
+- 🌊 **Progressive Web Apps**
+- 🎯 **System Architecture**
 
-    </td>
+</td>
   </tr>
 </table>
 
 </div>
 
-<!-- Activity Timeline -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ QUOTE ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
+<img width="100%" src="https://media1.tenor.com/m/6ScKQI4ugiYAAAAC/chisa-wuwa.gif"/>
 
+## 💫 Daily Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20echoes%20of%20our%20actions%20resonate%20through%20time.%20Code%20wisely.&author=Rover" alt="Quote" />
 
 </div>
 
-<!-- Silver Wolf's Philosophy -->
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## 💫 Quantum Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Want%20to%20play%20a%20game%3F%20%E2%80%A6%20I'm%20also%20playing%20multiple%20games%20at%20once%20on%20three%20different%20screens.&author=Silver%20Wolf" alt="Silver Wolf Quote" />
-
-</div>
-
-<!-- Stellaron Hunter Signature -->
 <div align="center">
 
 ---
 
-### � "Reality.exe has stopped working. Initiating quantum patch..."
+### 🔥 "Every line of code is an echo waiting to resonate..."
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,20,25,30,35&height=120&section=footer&text=Stellaron%20Hunter%20Silver%20Wolf&fontSize=24&fontColor=E0AAFF&animation=fadeIn"/> -->
-
-**⚡ End of quantum transmission ⚡**
+**⚔️ End of transmission ⚔️**
 
 </div>
-
-
