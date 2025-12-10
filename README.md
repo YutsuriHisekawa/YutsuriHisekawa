@@ -146,8 +146,10 @@
 
 <br><br>
 
+<a href="https://fahrizal.pro/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF4444?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 <img src="https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-<img src="https://img.shields.io/badge/Portfolio-FF4444?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 <img src="https://img.shields.io/badge/Discord-FF6B6B?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 
 </div>
